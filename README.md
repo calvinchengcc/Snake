@@ -3,7 +3,7 @@ Snake
 
 A classic arcade game
 
-Controls:
+####Controls
 - Up/Down/Left/Right for movement
 - 'P' or 'Q' to pause the game
 - '[' and ']' to increase/decrease the speed of the snake
