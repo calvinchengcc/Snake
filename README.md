@@ -7,5 +7,5 @@ A classic arcade game. The objective of the game is to consume as many fruits (!
 - Arrow keys to move
 - 'P' or 'Q' to pause the game
 - '[' and ']' to increase/decrease the speed of the snake
-- 'W' to toggle walls (up to a certain length)
+- 'W' to toggle walls (up to a certain point)
 - 'Enter' to increase snake length
